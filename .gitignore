@@ -1,0 +1,9 @@
+# build artefact for drag-and-drop hosting, not part of the site
+deploy-site.zip
+# earlier prototype and parked files
+archive/
+# local verification harnesses, not part of the site
+tools/
+# unused synthetic clips from the first prototype
+assets/clips/
+.DS_Store
